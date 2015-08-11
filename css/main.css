@@ -63,7 +63,7 @@ h2 {
 nav {
 	text-align: center;
 	padding: 10px 0;
-	margin: 20px 0 0;
+	margin: 10px 0 0;
 }
 
 nav ul {
@@ -97,7 +97,6 @@ footer {
 
 .social-icon {
 	width: 20px;
-	height: 20px;
 	margin: 0 5px;
 }
 
@@ -163,7 +162,7 @@ footer {
 	margin: 0 0 10px;
 }
 
-.contact-info li.phone a {
+/*.contact-info li.phone a {
 	background-image: url('../img/phone.png');
 }
 
@@ -173,7 +172,7 @@ footer {
 
 .contact-info li.github a {
 	background-image: url('../img/twitter.png');
-}
+}*/
 
 
 /*****************************************
@@ -204,7 +203,7 @@ h1, h2 {
 
 /* links */
 a {
-	color: #6ab47b;
+	color: #00beff;
 }
 
 /* nav link color*/
